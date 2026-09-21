@@ -47,8 +47,8 @@ Tarayıcıda açın: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## Notlar
 
-- API anahtarı asla koda gömülmez; yalnızca `.env` üzerinden okunur.
+- projeyi hemen tarayıcıda görüntülemek isterseniz " https://retro-chatbot-eyxb.onrender.com " sitesini ziyaret edebilirsiniz.
 - Chatbot bir yapay zeka olduğunu unutmaz, takvim yılı olarak ~1998'de yaşar.
-- Model adını `.env` içindeki `GEMINI_MODEL` ile değiştirebilirsiniz.
+
 - ****> Bu proje, **Atıl Samancıoğlu** eğitimi referans alınarak eğitim amaçlı geliştirilmiştir.
 
